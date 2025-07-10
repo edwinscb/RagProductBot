@@ -1,29 +1,41 @@
 import sys
 import os
-sys.path.append(os.path.abspath(os.path.join(os.path.dirname(__file__), '..')))
-
-
 from dotenv import load_dotenv
-from typing import List, Dict
 
+# Carga variables de entorno desde .env
 load_dotenv()
 
+# Mueve estas líneas al principio del archivo, ANTES de las otras importaciones
+sys.path.append(os.path.abspath(os.path.join(os.path.dirname(__file__), '..')))
+from typing import List
 
 from fastapi import FastAPI, HTTPException
 from pydantic import ValidationError
 from src.models import QueryRequest
-from src.vector_store import VectorStore, ProductDocument
+from src.rag.vector_store import VectorStore, ProductDocument
+from src.agents.responder_agent import ResponderAgent # Importa el nuevo agente
 
 app = FastAPI(
     title="Product-Query Bot API",
     description="Microservicio para responder preguntas sobre productos mediante un pipeline RAG."
 )
 
+# --- Inicialización del Vector Store ---
 DATA_PATH = os.getenv("DATA_PATH", "data/")
 if not os.path.exists(DATA_PATH):
     print(f"Advertencia: La carpeta de datos '{DATA_PATH}' no existe. Asegúrate de que los archivos .txt estén ahí.")
 
 vector_store = VectorStore(data_path=DATA_PATH)
+
+# --- Inicialización del Responder Agent ---
+# Obtén la clave API de OpenAI desde las variables de entorno
+OPENAI_API_KEY = os.getenv("OPENAI_API_KEY")
+if not OPENAI_API_KEY:
+    print("Advertencia: La variable de entorno OPENAI_API_KEY no está configurada. El Responder Agent no funcionará.")
+    responder_agent = None # O lanza un error si la clave es obligatoria
+else:
+    responder_agent = ResponderAgent(openai_api_key=OPENAI_API_KEY)
+
 
 @app.on_event("startup")
 async def startup_event():
@@ -34,8 +46,8 @@ async def startup_event():
         print("Indexación de documentos completada con éxito.")
     except Exception as e:
         print(f"Error durante la indexación: {e}")
-        
-        raise Exception(f"No se pudo inicializar el vector store: {e}")
+        # Considera si quieres que la aplicación falle si la indexación falla
+        # raise Exception(f"No se pudo inicializar el vector store: {e}")
 
 @app.post("/query")
 async def handle_query(request: QueryRequest):
@@ -52,32 +64,30 @@ async def handle_query(request: QueryRequest):
         if not vector_store.index:
             raise HTTPException(status_code=503, detail="Vector store no inicializado. Intente de nuevo más tarde.")
 
+        # --- Agente Recuperador (ya implementado en VectorStore.retrieve) ---
         retrieved_documents: List[ProductDocument] = vector_store.retrieve(user_query, top_k=3)
 
-        retrieved_content_snippets = [doc.content[:100] + "..." for doc in retrieved_documents]
-        print(f"Documentos recuperados para '{user_query}': {retrieved_content_snippets}")
+        retrieved_product_ids = [doc.product_id for doc in retrieved_documents]
+        print(f"Documentos recuperados para '{user_query}': {retrieved_product_ids}")
 
-        if retrieved_documents:
-            context_for_llm = "\n\n".join([doc.content for doc in retrieved_documents])
-            bot_response_text = (
-                f"Gracias por tu pregunta sobre '{user_query}'. "
-                f"He encontrado información relevante sobre los productos: "
-                f"{', '.join([doc.product_id for doc in retrieved_documents])}. "
-                "En el futuro, aquí se generaría una respuesta basada en esta información."
-            )
+        # --- Agente Respondedor ---
+        if responder_agent:
+            bot_response_text = responder_agent.generate_response(user_query, retrieved_documents)
         else:
-            bot_response_text = f"No pude encontrar información relevante para '{user_query}' en nuestra base de datos de productos."
+            bot_response_text = (
+                "Lo siento, el Agente Respondedor no está configurado (falta la clave API de OpenAI). "
+                "Pude recuperar información sobre los siguientes productos: "
+                f"{', '.join(retrieved_product_ids) if retrieved_product_ids else 'ninguno'}."
+            )
 
-
-        simulated_response = {
+        final_response = {
             "user_id": user_id,
             "original_query": user_query,
             "bot_response": bot_response_text,
-            "retrieved_product_ids": [doc.product_id for doc in retrieved_documents]
+            "retrieved_product_ids": retrieved_product_ids
         }
 
-
-        return simulated_response
+        return final_response
 
     except ValidationError as e:
         raise HTTPException(status_code=400, detail=f"Invalid input: {e.errors()}")

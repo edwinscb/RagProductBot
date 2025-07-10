@@ -3,3 +3,4 @@ fastapi
 sentence-transformers
 faiss-cpu
 uvicorn
+openai 
