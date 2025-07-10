@@ -1,0 +1,155 @@
+Nombre del Producto: OrionTech AromaMaster Pro X1
+Modelo: OTech-AMX1
+Serie: Cafeteras Premium Inteligentes
+
+--- RESUMEN RÁPIDO ---
+La OrionTech AromaMaster Pro X1 establece un nuevo estándar en cafeteras superautomáticas inteligentes. Diseñada para entusiastas del café y profesionales, integra un molinillo de precisión de 16 niveles, sistema de leche LatteArt Pro para microespuma, y conectividad Wi-Fi para un control total desde la aplicación. Ofrece una extracción perfecta con 19 bares de presión y opciones de personalización inigualables. Su construcción robusta en acero inoxidable, certificaciones de sostenibilidad y métricas de rendimiento la posicionan como la elección superior para un café de calidad barista en cualquier entorno.
+--- FIN RESUMEN RÁPIDO ---
+
+Características Principales (Resumen):
+- Tipo: Cafetera superautomática con molinillo integrado
+- Bebidas Programables: 20+ (Espresso, Cappuccino, Latte, Americano, Macchiato, Flat White, Agua caliente, Leche caliente, etc.)
+- Presión: 19 bares
+- Molinillo: Cónico de acero inoxidable con 16 niveles de molienda
+- Sistema de Leche: Automático LatteArt Pro con depósito externo y autolimpieza
+- Pantalla: Táctil a color de 5 pulgadas (HD)
+- Conectividad: Wi-Fi 2.4/5GHz (para App y actualizaciones OTA)
+- Depósito de Agua: 2.5 Litros (con filtro integrado)
+- Depósito de Granos: 300 gramos (con sellado hermético)
+- Contenedor de Posos: Para 18 tazas
+- Material: Acero inoxidable (frontal/superior) y ABS de alta calidad (laterales)
+
+🔍 Especificaciones Técnicas Detalladas:
+
+Sistema de Preparación de Café:
+- Tipo de Cafetera: Superautomática, grano a taza.
+- Bomba de Presión: Bomba italiana de 19 bares (bomba ULKA, modelo EP5).
+- Calentamiento Rápido: Termoblock dual (uno para café, otro para vapor) de acero inoxidable. Tiempo de calentamiento inicial: ~25 segundos.
+- Molinillo: Cónico de acero inoxidable endurecido. 16 niveles de ajuste micrométrico de molienda. Con sensor de presencia de granos.
+- Tolva de Granos: Capacidad de 300 gramos, con junta de silicona para sellado hermético y protección UV.
+- Ranura para Café Molido: Sí, para café pre-molido (ej. descafeinado), capacidad para 12 gramos.
+- Grupo de Preparación (Brew Unit): Compacto, extraíble para fácil limpieza manual. Capacidad de dosificación de café: 7-16 gramos.
+- Sistema de Pre-infusión: Activo y programable (3 niveles) para saturación uniforme del café y extracción máxima de aromas.
+- Control de Temperatura: Sistema PID de control de temperatura del agua (ajustable en 3 niveles: 88°C, 92°C, 96°C).
+- Boquilla de Café: Altura ajustable de 80 mm a 160 mm, permite usar tazas de diferentes tamaños.
+
+Sistema de Leche (LatteArt Pro 2.0):
+- Tipo: Automático, integrado con jarra de leche externa de 0.6 litros (material Tritan, apta para lavavajillas).
+- Tecnología de Espumado: Basada en vapor y aire comprimido, crea microespuma de leche densa y aterciopelada, ideal para Latte Art. Ajuste de nivel de espuma (5 niveles).
+- Variedad de Bebidas Lácteas: Prepara automáticamente Cappuccino, Latte, Macchiato, Flat White, Espresso Macchiato, y leche caliente.
+- Limpieza Automática: Ciclo de autolimpieza del sistema de leche con vapor y agua caliente después de cada preparación. Programa de limpieza profunda guiada.
+
+Interfaz y Control:
+- Pantalla: Panel táctil capacitivo a color de 5 pulgadas con resolución HD (800x480 píxeles).
+- Navegación: Interfaz gráfica de usuario (GUI) intuitiva con iconos personalizables y animaciones.
+- Perfiles de Usuario: Hasta 8 perfiles de usuario completamente personalizables, cada uno puede guardar hasta 10 bebidas favoritas y ajustes de preferencia.
+- Control por App (OrionTech Coffee Connect):
+    - Conectividad Wi-Fi dual-band (2.4GHz y 5GHz).
+    - Permite iniciar la preparación remotamente.
+    - Personalización de recetas (volumen, intensidad, temperatura, espuma).
+    - Acceso a biblioteca de recetas exclusivas de OrionTech.
+    - Programación de limpieza y descalcificación.
+    - Diagnóstico remoto de errores y solución de problemas guiada.
+    - Notificaciones de mantenimiento (rellenar agua/granos, vaciar posos).
+- Asistentes de Voz: Compatible con Amazon Alexa, Google Assistant y Siri Shortcuts para iniciar bebidas por comandos de voz.
+
+Capacidad y Dimensiones:
+- Depósito de Agua: 2.5 Litros, extraíble por el frontal, con sensor de nivel y compartimento para filtro de agua Claris Smart (incluye 1).
+- Depósito de Granos: 300 gramos, con tapa hermética anti-UV.
+- Contenedor de Posos: Capacidad para 18 pastillas de café usadas, con indicador de llenado.
+- Bandeja de Goteo: Extraíble, de acero inoxidable, con indicador de llenado y lavable en lavavajillas.
+- Dimensiones (An x Prof x Al): 24.0 cm x 44.0 cm x 36.0 cm
+- Peso: 10.5 kg
+
+Limpieza y Mantenimiento:
+- Programas de Limpieza Automáticos:
+    - Limpieza del circuito de café (enjuague inicial/final).
+    - Ciclo de descalcificación guiado.
+    - Limpieza y purgado del sistema de leche.
+- Grupo de Preparación: Extraíble para limpieza manual bajo el grifo.
+- Filtro de Agua: Reduce la cal y mejora el sabor del agua, prolongando la vida útil de la máquina.
+- Materiales: Todos los componentes en contacto con el café y la leche son de grado alimenticio y libres de BPA.
+
+🎨 Diseño y Construcción:
+- Material del Chasis: Panel frontal y superior en acero inoxidable pulido de alta calidad, laterales en ABS premium con acabado texturizado.
+- Color: Negro medianoche con detalles cromados en acero inoxidable.
+- Iluminación: Luz LED para la taza durante la preparación (programable), indicadores LED de estado.
+- Soportes: Pies de goma antideslizantes.
+
+⚙️ Rendimiento y Eficiencia:
+- Tiempo de Preparación (Espresso): ~45 segundos (desde apagado total), ~25 segundos (desde modo Standby).
+- Tiempo de Preparación (Cappuccino): ~60-70 segundos.
+- Consumo Energético:
+    - Modo Activo: 1450W
+    - Modo Standby: <1W
+    - Apagado Automático: Programable (15 min - 8 horas).
+- Certificación de Eficiencia: Clase Energética A+, Certificación Energy Star.
+
+🧠 Funcionalidades con IA:
+- AI Brew Adapt: (Actualización de Firmware Q4 2025) Ajuste inteligente de la molienda y el volumen de agua en tiempo real, basándose en la dureza del agua, el tipo de grano (requiere escaneo de paquete o entrada manual de perfil) y la calidad del espresso extraído previamente.
+- Mantenimiento Predictivo: Notificaciones en la App sobre la necesidad de mantenimiento preventivo, como la sustitución de juntas o la limpieza de componentes específicos, basándose en el uso.
+- Recetas Adaptativas: La App puede sugerir perfiles de bebida optimizados para nuevos tipos de granos al importar perfiles de tostadores compatibles.
+
+🌐 Integración y Ecosistema:
+- Parte del ecosistema OrionTech Smart Home, permitiendo la integración con otros dispositivos inteligentes para crear rutinas (ej. "Buenos días": se enciende la luz, se prepara el café).
+
+📦 Contenido de la Caja:
+- 1x Cafetera Superautomática OrionTech AromaMaster Pro X1
+- 1x Jarra de leche externa de 0.6L
+- 1x Cuchara dosificadora para café molido
+- 1x Filtro de agua Claris Smart (inicial)
+- 1x Tira de prueba de dureza del agua
+- 1x Cepillo de limpieza para el grupo de preparación
+- 1x Líquido descalcificador (muestra de 100ml)
+- 1x Manual de Usuario completo y Guía de Inicio Rápido
+- 1x Tarjeta de garantía y registro de producto
+
+💼 Garantía y Soporte:
+- Garantía estándar: 2 años limitada para hardware. Cobertura en defectos de fabricación.
+- Soporte técnico: Disponible 24/7 vía chat en la App, correo electrónico y línea telefónica dedicada (número local e internacional).
+- Mantenimiento: Programa de mantenimiento premium "OrionCare" disponible para compra, incluye limpieza profunda anual y extensión de garantía.
+- Repuestos: Amplia disponibilidad de repuestos originales a través de la tienda online de OrionTech.
+
+--- PRECIO Y DISPONIBILIDAD ---
+Precio Base: USD $1,199.00
+Pre-órdenes: Disponibles a partir del 5 de septiembre de 2025
+Lanzamiento Oficial: 1 de octubre de 2025
+Canales de Venta:
+- Tienda online oficial de OrionTech (oriontech.com/es/aromamasterX1)
+- Grandes almacenes de electrodomésticos (ej. Best Buy, El Corte Inglés, FNAC)
+- Tiendas especializadas en café y electrodomésticos de gama alta.
+Ofertas de Lanzamiento:
+- Las primeras 200 unidades pre-ordenadas recibirán un kit de inicio valorado en $50 USD (incluye 1kg de café OrionTech Premium, vasos térmicos de doble pared y suscripción de 3 meses a recetas exclusivas).
+- Descuento del 10% en packs de 3 meses de café OrionTech al registrar la cafetera.
+--- FIN PRECIO Y DISPONIBILIDAD ---
+
+--- COMPARATIVA Y ESCENARIOS DE USO ---
+📈 Comparativa con Modelos Anteriores y Competencia:
+- **vs. OrionTech AromaFlow 500 (modelo anterior):** El AromaMaster Pro X1 ofrece un 40% más de opciones de personalización, un 20% más de velocidad de preparación, sistema de leche LatteArt Pro (vs. vaporizador manual), y conectividad Wi-Fi/App.
+- **vs. Competencia (ej. De'Longhi Dinamica Plus, Jura ENA 8):** El AuraMaster Pro X1 destaca por su potencia de succión del molinillo, sistema de limpieza de leche más avanzado, mayor capacidad de depósitos, y un control por App más intuitivo y funcional. Supera en número de bebidas preprogramadas y opciones de ajuste fino.
+
+🧪 Casos de uso con escenarios:
+- **Mañanas Aceleradas:** "Un ejecutivo puede programar su Espresso doble para las 7:00 AM desde la cama con su smartphone, o activarlo por voz al levantarse, ahorrando tiempo precioso antes de ir al trabajo."
+- **Entretenimiento en Casa:** "Ideal para anfitriones que deseen impresionar. Con la función de múltiples perfiles de usuario, cada invitado puede seleccionar y preparar su bebida favorita sin esfuerzo, mientras el sistema de leche automático facilita la creación rápida de Cappuccinos para grupos grandes."
+- **Aficionados al Café:** "Permite a los baristas caseros experimentar con diferentes niveles de molienda y temperaturas para optimizar la extracción de sus granos favoritos, explorando nuevos sabores y personalizando cada taza a un nivel de detalle que otras máquinas automáticas no ofrecen."
+- **Oficinas Pequeñas/Coworkings:** "Su gran capacidad de depósitos y su robustez la hacen perfecta para un entorno de oficina con alta demanda, minimizando la necesidad de rellenar constantemente y asegurando café de calidad para todo el equipo."
+--- FIN COMPARATIVA Y ESCENARIOS DE USO ---
+
+--- GLOSARIO TÉCNICO ---
+- **Superautomática:** Tipo de cafetera que muele los granos, prepara el café y a veces la leche automáticamente con solo tocar un botón.
+- **Bares:** Unidad de presión utilizada en cafeteras espresso. 19 bares son el estándar profesional para una óptima extracción.
+- **Termoblock Dual:** Sistema de calentamiento rápido que utiliza dos bloques independientes: uno para el café y otro para el vapor, permitiendo preparar bebidas de leche sin esperas.
+- **Molinillo Cónico:** Tipo de molinillo que utiliza dos conos (uno fijo y uno giratorio) para moler los granos de manera uniforme y preservar el aroma, produciendo menos calor que los molinillos de cuchillas.
+- **LatteArt Pro 2.0:** (Nombre ficticio) Sistema avanzado de espumado de leche que produce microespuma de alta calidad, densa y sin burbujas, ideal para hacer Latte Art.
+- **QHD (Quad High Definition):** (No aplica a la cafetera, pero en contexto de otros productos de la marca).
+- **Wi-Fi 2.4/5GHz:** Doble banda de frecuencia inalámbrica que permite una conexión más estable y rápida con el router.
+- **BPA-free:** Indica que el producto no contiene Bisfenol A, un químico industrial potencialmente nocivo para la salud.
+- **LiDAR:** (No aplica a la cafetera, pero en contexto de otros productos de la marca).
+- **HEPA:** (No aplica a la cafetera, pero en contexto de otros productos de la marca).
+- **IoT (Internet of Things):** Describe dispositivos físicos (como esta cafetera) que están conectados a internet para recopilar e intercambiar datos.
+- **RFID (Radio-Frequency Identification):** Tecnología que utiliza ondas de radio para identificar objetos etiquetados a distancia. Mencionada para futura integración de granos con etiquetas de perfil.
+- **ABS (Acrilonitrilo Butadieno Estireno):** Plástico de ingeniería robusto y ligero, común en la carcasa de electrodomésticos.
+- **PID (Proportional-Integral-Derivative):** Algoritmo de control que mantiene la temperatura del agua de forma muy precisa, crucial para la extracción consistente del espresso.
+- **OTA (Over-The-Air):** Método de actualización de software de forma inalámbrica, sin necesidad de conexión física.
+- **Tritan:** Plástico duradero, libre de BPA, resistente a impactos y apto para lavavajillas, comúnmente usado en jarras.
+--- FIN GLOSARIO TÉCNICO ---

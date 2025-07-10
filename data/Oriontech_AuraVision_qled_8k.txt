@@ -1,0 +1,156 @@
+Nombre del Producto: OrionTech AuraVision QLED 8K
+Modelo: OTech-AVQ8K-65
+Serie: Televisores Premium de Ultra Alta Definición
+
+--- RESUMEN RÁPIDO ---
+El OrionTech AuraVision QLED 8K de 65 pulgadas es la cúspide de la experiencia visual doméstica, ofreciendo una resolución 8K nativa con tecnología Mini LED para un contraste y brillo excepcionales. Equipado con el potente procesador AlphaGen 8K, integración de IA para mejora de imagen y sonido, y una plataforma Smart TV avanzada, este televisor redefine la inmersión. Su diseño elegante sin marcos y su conectividad de última generación lo convierten en el centro de entretenimiento ideal para los entusiastas de la imagen y el sonido.
+--- FIN RESUMEN RÁPIDO ---
+
+Características Principales (Resumen):
+- Tipo de Panel: QLED con retroiluminación Mini LED FALD (Full Array Local Dimming)
+- Resolución: 8K UHD (7680 x 4320 píxeles)
+- Tamaño: 65 pulgadas (disponible también en 75" y 85")
+- Procesador de Imagen: AlphaGen 8K AI Processor
+- HDR: Dolby Vision IQ, HDR10+, HLG
+- Tasa de Refresco: 120Hz nativos, VRR (Variable Refresh Rate) hasta 144Hz
+- Sonido: Sistema de audio 4.2.2 canales con 80W, Dolby Atmos
+- Smart TV: OrionOS 6.0 (basado en Google TV) con IA
+- Conectividad: Wi-Fi 6E, Bluetooth 5.3, 4x HDMI 2.1
+- Diseño: CinemaScreen sin marcos
+
+🔍 Especificaciones Técnicas Detalladas:
+
+Panel y Calidad de Imagen:
+- Tipo de Panel: QLED (Quantum Dot Light Emitting Diode)
+- Tecnología de Retroiluminación: Mini LED con Full Array Local Dimming (FALD) con más de 2000 zonas de atenuación.
+- Resolución: 8K UHD (7680 x 4320 píxeles) nativa.
+- Brillo: Hasta 2000 nits (pico HDR), 1200 nits (sostenido).
+- Contraste: Contraste dinámico excepcional gracias al Mini LED FALD y Quantum Dots.
+- Tasa de Refresco Nativa: 120Hz.
+- Frecuencia Adaptativa (VRR): Compatible con HDMI Forum VRR, NVIDIA G-Sync Compatible y AMD FreeSync Premium Pro (hasta 144Hz).
+- Ángulo de Visión: Wide Viewing Angle (amplios ángulos de visión sin degradación de color).
+- Recubrimiento: Capa antirreflejos para minimizar reflejos en ambientes luminosos.
+- Cobertura de Color: 100% DCI-P3, 98% Adobe RGB.
+- Profundidad de Color: 10 bits reales.
+
+Procesador de Imagen y Escalado:
+- Procesador: AlphaGen 8K AI Processor (Exclusivo de OrionTech).
+- Escalado a 8K: AI Upscaling de última generación para contenido de menor resolución (HD, 4K) con reconstrucción de textura y detalle.
+- Mejora de Contraste: AI Contrast Enhancer, Dynamic Tone Mapping Pro.
+- Mejora de Color: AI Color Mapping, Quantum Dot Color Enhancer.
+- Reducción de Ruido: DNR (Digital Noise Reduction) y AI Smooth Gradation para eliminar el banding.
+- Procesamiento de Movimiento: Orion MotionFlow 240 (inserción de frames negros y procesamiento de baja latencia).
+
+HDR (Alto Rango Dinámico):
+- Compatibilidad: Dolby Vision IQ, HDR10+, HLG (Hybrid Log-Gamma).
+- Optimización HDR: Optimizador de Brillo AI que ajusta el HDR según la luz ambiental.
+
+Audio:
+- Sistema de Sonido: 4.2.2 canales con altavoces frontales, laterales y superiores para un sonido envolvente.
+- Potencia Total de Salida: 80W.
+- Subwoofer Integrado: Sí, para graves profundos.
+- Compatibilidad de Audio: Dolby Atmos, DTS:X.
+- Mejora de Audio: AI Sound Pro (ajusta el sonido según el tipo de contenido y el entorno de la sala), Voice Clarity.
+- Conectividad de Audio: eARC (Enhanced Audio Return Channel) para sistemas de sonido externos.
+
+Smart TV (OrionOS 6.0 con Google TV):
+- Plataforma: OrionOS 6.0, basado en Google TV.
+- Asistente de Voz Integrado: Google Assistant (con micrófono de campo lejano y botón dedicado en el control remoto).
+- Aplicaciones Preinstaladas: Netflix, YouTube, Disney+, Amazon Prime Video, HBO Max, Spotify, Twitch, etc. (miles de apps disponibles en Google Play Store).
+- Chromecast Integrado: Sí, para enviar contenido desde dispositivos móviles.
+- AirPlay 2: Compatible con dispositivos Apple para mirroring y streaming.
+- Perfiles de Usuario: Personalización de la interfaz y recomendaciones de contenido para múltiples usuarios.
+
+Conectividad:
+- Wi-Fi: Wi-Fi 6E (802.11ax) dual-band (2.4/5/6GHz).
+- Bluetooth: Versión 5.3 (soporte para múltiples dispositivos, audio inalámbrico de baja latencia).
+- Puertos HDMI: 4x HDMI 2.1 (todos con soporte 8K@60Hz, 4K@120Hz, VRR, ALLM, eARC).
+- Puertos USB: 3x USB 3.0 (para reproducción multimedia y grabación PVR).
+- Ethernet: 1x puerto RJ45 Gigabit Ethernet.
+- Salida de Audio: Salida de audio óptica digital.
+
+Diseño y Construcción:
+- Estilo: CinemaScreen Design (diseño prácticamente sin marcos en 3 lados).
+- Materiales: Borde frontal de aluminio cepillado, panel trasero de fibra de carbono.
+- Grosor del Panel: Ultra-delgado (2.5 cm en su punto más delgado).
+- Gestión de Cables: Sistema integrado de gestión de cables en la peana/trasera.
+- Opciones de Montaje: Compatible con montaje VESA (400x400 mm), incluye peana central elegante.
+
+Gaming Features:
+- ALLM (Auto Low Latency Mode): Detecta automáticamente cuando se inicia un juego y activa el modo de baja latencia.
+- Input Lag: Ultra-bajo, menos de 5ms en 4K@120Hz.
+- HGiG: Compatibilidad con HDR Gaming Interest Group para un HDR optimizado en juegos.
+- Game Bar/Dashboard: Menú en pantalla para ajustar rápidamente configuraciones de juego (FPS, HDR, VRR).
+
+Eficiencia Energética:
+- Clase Energética: G (bajo la nueva normativa europea para 8K).
+- Consumo Típico: 350W.
+- Consumo en Standby: <0.5W.
+- Sensores: Sensor de luz ambiental para ajustar automáticamente el brillo de la pantalla.
+- Certificaciones: Energy Star, EPEAT Silver.
+
+📦 Contenido de la Caja:
+- 1x Televisor OrionTech AuraVision QLED 8K (65 pulgadas)
+- 1x Control Remoto Inteligente OrionTech Magic Remote (con micrófono para voz y puntero)
+- 2x Pilas AAA para el control remoto
+- 1x Peana de sobremesa (desmontable)
+- 1x Cable de alimentación
+- 1x Guía de inicio rápido
+- 1x Manual de usuario completo (versión digital disponible online)
+- 1x Tarjeta de garantía
+
+💼 Garantía y Soporte:
+- Garantía estándar: 2 años limitada para hardware.
+- Soporte técnico: 24/7 vía chat, correo electrónico y línea telefónica dedicada.
+- Actualizaciones de Firmware: Actualizaciones regulares Over-The-Air (OTA) para mejoras de rendimiento y nuevas características.
+- Política de Píxeles: Garantía de 0 píxeles brillantes/muertos durante el primer año.
+
+--- PRECIO Y DISPONIBILIDAD ---
+Precio (65 pulgadas): USD $3,499.00
+Precios de Otras Configuraciones:
+- 75 pulgadas: USD $4,999.00
+- 85 pulgadas: USD $6,999.00
+Disponibilidad:
+- Lanzamiento Oficial: 20 de noviembre de 2025
+- Pre-órdenes: Disponibles a partir del 1 de noviembre de 2025
+- Canales de Venta: Tienda online de OrionTech, grandes tiendas de electrónica (ej. Best Buy, MediaMarkt), distribuidores selectos de audio/video.
+Ofertas de Lanzamiento:
+- Las primeras 300 unidades pre-ordenadas incluyen una barra de sonido OrionTech AuraSound 3.1.2 de regalo (valorada en $499 USD).
+- Financiamiento a 12 meses sin intereses disponible para compras durante el período de lanzamiento.
+--- FIN PRECIO Y DISPONIBILIDAD ---
+
+--- COMPARATIVA Y ESCENARIOS DE USO ---
+📈 Comparativa con Modelos Anteriores y Competencia:
+- **vs. OrionTech AuraVision QLED 4K (modelo anterior):** El AuraVision QLED 8K ofrece 4 veces más píxeles, tecnología Mini LED para un contraste superior, un procesador de imagen AI más potente, y soporte HDMI 2.1 completo en todos los puertos.
+- **vs. Competencia (ej. Samsung QN900D, LG QNED99):** El AuraVision QLED 8K se distingue por su mayor número de zonas de atenuación Mini LED, un Input Lag más bajo para gaming, compatibilidad más amplia con VRR, y un sistema de sonido integrado más potente.
+
+🧪 Casos de uso con escenarios:
+- **Cine en Casa:** “Ideal para los cinéfilos que buscan la máxima fidelidad de imagen. Con su resolución 8K, Mini LED y soporte Dolby Vision IQ, cada escena cobra vida con detalles nítidos y un contraste profundo, incluso en salas luminosas.”
+- **Gaming de Nueva Generación:** “Los gamers de consolas (PS5, Xbox Series X) y PC experimentarán un juego fluido y responsivo gracias a los 120Hz nativos, VRR de hasta 144Hz y un Input Lag ultra-bajo, poniendo a los jugadores en ventaja competitiva.”
+- **Centro de Entretenimiento Familiar:** “Su plataforma OrionOS 6.0 con Google TV permite a cada miembro de la familia acceder a sus aplicaciones favoritas y recibir recomendaciones personalizadas, haciendo que encontrar contenido sea más fácil y rápido para todos.”
+- **Visualización de Contenido 8K:** “Perfecto para aquellos que ya tienen o planean acceder a contenido 8K (cámaras 8K, streaming futuro), disfrutando de una claridad y detalle sin precedentes que solo una pantalla 8K nativa puede ofrecer.”
+--- FIN COMPARATIVA Y ESCENARIOS DE USO ---
+
+--- GLOSARIO TÉCNICO ---
+- **QLED (Quantum Dot Light Emitting Diode):** Tecnología de pantalla que utiliza puntos cuánticos para producir colores más brillantes y puros.
+- **Mini LED:** Tecnología de retroiluminación que utiliza LED mucho más pequeños que los tradicionales, permitiendo un mayor número de zonas de atenuación y un control de la luz más preciso.
+- **FALD (Full Array Local Dimming):** Sistema de atenuación local completa que apaga o atenúa grupos de LED para lograr negros más profundos y un contraste superior.
+- **8K UHD (Ultra High Definition):** Resolución de pantalla de 7680x4320 píxeles, cuatro veces la resolución de 4K.
+- **Nits:** Unidad de medida de brillo de la pantalla.
+- **HDR (High Dynamic Range):** Tecnología que permite a las pantallas mostrar un rango más amplio de colores y brillos.
+- **Dolby Vision IQ / HDR10+ / HLG:** Estándares de HDR que ofrecen metadatos dinámicos para una mejor optimización del brillo y color.
+- **Hz (Hertz):** Unidad de frecuencia de la pantalla, indica cuántas veces por segundo se actualiza la imagen.
+- **VRR (Variable Refresh Rate):** Permite que la tasa de refresco del televisor se sincronice con la tasa de frames de la fuente (ej. consola de juegos), eliminando el "tearing".
+- **ALLM (Auto Low Latency Mode):** Característica de HDMI 2.1 que cambia automáticamente el televisor a un modo de baja latencia al detectar un juego.
+- **eARC (Enhanced Audio Return Channel):** Versión avanzada de ARC que permite enviar formatos de audio de alta calidad (como Dolby Atmos) a una barra de sonido o receptor.
+- **Wi-Fi 6E (802.11ax):** Última generación de estándar Wi-Fi, incluye una banda de 6GHz para mayor velocidad y menor congestión.
+- **Bluetooth 5.3:** Última versión del estándar inalámbrico para conectar accesorios.
+- **HDMI 2.1:** Última versión del estándar HDMI, soporta 8K@60Hz, 4K@120Hz, VRR, ALLM, eARC.
+- **AI Upscaling:** Proceso mediante IA para mejorar la resolución de contenido de baja calidad a una más alta (ej. 4K a 8K).
+- **DCI-P3:** Espacio de color utilizado en la industria cinematográfica, más amplio que el sRGB estándar.
+- **DNR (Digital Noise Reduction):** Función que reduce el ruido en la imagen digital.
+- **Banding:** Aparición de franjas de color visibles en degradados suaves debido a la limitada profundidad de color.
+- **PVR (Personal Video Recorder):** Función que permite grabar programas de TV en un dispositivo de almacenamiento USB conectado.
+- **VESA:** Estándar de montaje para televisores y monitores en soportes de pared.
+--- FIN GLOSARIO TÉCNICO ---
+

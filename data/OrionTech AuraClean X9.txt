@@ -1,0 +1,117 @@
+Nombre del Producto: OrionTech AuraClean X9
+Modelo: OTech-ACX9
+Serie: Robótica Doméstica Premium
+
+--- RESUMEN RÁPIDO ---
+El OrionTech AuraClean X9 es un robot aspirador inteligente de alta gama diseñado para una limpieza autónoma y eficiente del hogar. Con su navegación LiDAR avanzada, potente succión, función de fregado, y una estación de vaciado automático, el AuraClean X9 ofrece una experiencia de limpieza completamente manos libres. Ideal para hogares con mascotas y personas alérgicas, garantiza suelos impecables y aire más limpio con mínima intervención.
+--- FIN RESUMEN RÁPIDO ---
+
+Características Principales (Resumen):
+- Navegación: LiDAR + Reconocimiento Visual AI
+- Succión: 7000 Pa (Pascals)
+- Funciones: Aspirado, Fregado (Vibratorio de Alta Frecuencia), Vaciado Automático
+- Estación Base: Omni-Estación (carga, vaciado, rellenado de agua, secado de mopa)
+- Batería: 5200 mAh, hasta 240 minutos de autonomía
+- Depósito de Polvo: 400 ml (robot), 3.5L (estación)
+- Depósito de Agua: 80 ml (robot), 4L (estación)
+- Filtro: HEPA, lavable
+- Ruido: 58 dB (en modo silencioso)
+- Altura: 9.7 cm
+
+🔍 Especificaciones Técnicas Detalladas:
+
+Navegación y Mapeo:
+- Tecnología: Navegación LiDAR 360° (Laser Detection and Ranging) para mapeo preciso del hogar.
+- Reconocimiento de Objetos: Reconocimiento visual basado en IA (Inteligencia Artificial) para identificar y evitar obstáculos comunes como cables, calcetines, zapatos y excrementos de mascotas.
+- Mapeo Inteligente: Creación de mapas 3D del hogar, permite múltiples mapas para varios pisos.
+- Funciones de App: Permite crear zonas restringidas, muros virtuales, zonas de limpieza, limpieza por habitación, edición de mapas.
+
+Rendimiento de Limpieza:
+- Potencia de Succión: 7000 Pa (Pascals), ajustable en 4 niveles.
+- Cepillo Principal: Cepillo flotante multi-superficie de silicona y cerdas (anti-enredos para pelo de mascotas).
+- Cepillos Laterales: 2 cepillos laterales para esquinas y bordes.
+- Función de Fregado: Mopa de vibración sónica de alta frecuencia (3000 vibraciones/minuto) con presión constante.
+- Detección de Alfombras: Aumenta automáticamente la potencia de succión en alfombras y levanta la mopa para evitar mojarlas.
+
+Estación de Vaciado y Mantenimiento (Omni-Estación):
+- Capacidad del Depósito de Polvo: Bolsa sellada de 3.5L (hasta 60 días de vaciado automático).
+- Depósitos de Agua:
+    - Depósito de agua limpia: 4L (para rellenar el robot automáticamente).
+    - Depósito de agua sucia: 4L (recoge el agua del lavado de la mopa).
+- Limpieza de Mopa: Lava la mopa del robot automáticamente con agua caliente después de cada ciclo de limpieza.
+- Secado de Mopa: Seca la mopa con aire caliente para prevenir olores y crecimiento de moho.
+- Carga: Estación de carga automática.
+
+Batería y Autonomía:
+- Tipo de Batería: Ion de litio de alta capacidad
+- Capacidad: 5200 mAh
+- Autonomía: Hasta 240 minutos (en modo silencioso), cubre hasta 300m² con una sola carga.
+- Recarga y Reanudación: El robot regresa a la estación para recargar y reanuda la limpieza desde donde la dejó.
+
+Filtros:
+- Tipo de Filtro: HEPA de triple capa.
+- Retención de Partículas: Captura hasta el 99.9% de partículas finas, polvo y alérgenos de hasta 0.3 micrones.
+- Mantenimiento: Filtro lavable para prolongar su vida útil.
+
+Control y Conectividad:
+- Aplicación Móvil: OrionTech Clean App (iOS y Android) para control total, programación, gestión de mapas y personalización de limpieza.
+- Asistentes de Voz: Compatible con Amazon Alexa, Google Assistant y Siri Shortcuts para control por voz.
+- Wi-Fi: Conectividad Wi-Fi de 2.4 GHz.
+- Programación: Permite programar horarios de limpieza diarios, semanales o por zonas.
+
+Diseño y Construcción:
+- Material: Plástico ABS de alta resistencia, acabado mate.
+- Color: Negro medianoche.
+- Sensores: Sensores anti-caída, anti-colisión, de pared, de suciedad.
+- Altura: 9.7 cm (permite limpiar bajo la mayoría de muebles).
+
+Funcionalidades con IA:
+- Detección de Manchas: Utiliza IA para identificar áreas particularmente sucias y aplicar una limpieza más intensiva.
+- Adaptación Inteligente: Ajusta automáticamente la potencia de succión y el flujo de agua según el tipo de suelo y el nivel de suciedad.
+- Predicción de Mantenimiento: Notifica en la app cuándo es necesario limpiar cepillos, reemplazar filtros o vaciar la bolsa de polvo.
+
+Integración y Ecosistema:
+- Compatible con el ecosistema OrionTech Smart Home para automatizaciones.
+
+Software Preinstalado:
+- Firmware de OrionTech con actualizaciones OTA (Over-The-Air).
+- OrionTech Clean App (requiere descarga en smartphone).
+
+📦 Contenido de la Caja:
+- 1x Robot Aspirador OrionTech AuraClean X9
+- 1x Omni-Estación de Vaciado y Lavado Automático
+- 1x Bolsa de Polvo de Recambio
+- 2x Paños de Mopa (1 preinstalado, 1 de repuesto)
+- 2x Cepillos Laterales (1 preinstalado, 1 de repuesto)
+- 1x Cepillo de Limpieza de Mantenimiento
+- 1x Cable de Alimentación
+- 1x Manual de Usuario y Guía de Inicio Rápido
+- 1x Base para la estación
+
+💼 Garantía y Soporte:
+- Garantía estándar: 2 años limitada para el robot y la estación base.
+- Soporte técnico: Disponible 24/7 vía chat, correo electrónico y línea telefónica.
+- Repuestos: Disponibilidad de repuestos originales a través de la tienda online de OrionTech.
+
+--- PRECIO Y DISPONIBILIDAD ---
+Precio Base: USD $999.00
+Pre-órdenes: Disponibles a partir del 10 de agosto de 2025
+Lanzamiento Oficial: 1 de septiembre de 2025
+Canales de Venta: Tienda online de OrionTech, grandes minoristas de electrónica, y Amazon.
+Ofertas de Lanzamiento: 10% de descuento para las primeras 500 unidades pre-ordenadas.
+--- FIN PRECIO Y DISPONIBILIDAD ---
+
+--- GLOSARIO TÉCNICO ---
+- **LiDAR (Light Detection and Ranging):** Tecnología de mapeo láser utilizada por el robot para crear un mapa preciso del entorno.
+- **Pa (Pascal):** Unidad de presión, utilizada aquí para medir la potencia de succión del aspirador. Mayor Pa = mayor succión.
+- **HEPA (High-Efficiency Particulate Air):** Tipo de filtro de aire mecánico que retiene partículas muy pequeñas, incluyendo alérgenos y polvo fino.
+- **Omni-Estación:** Término para una estación base multifuncional que no solo carga el robot, sino que también vacía su depósito de polvo, rellena el agua para el fregado y lava/seca la mopa.
+- **m² (Metros Cuadrados):** Unidad de medida de superficie, utilizada para indicar el área de cobertura del robot.
+- **mAh (Miliamperios-hora):** Unidad de medida de la capacidad de una batería.
+- **OTA (Over-The-Air):** Método de actualización de software de forma inalámbrica, sin necesidad de conexión física.
+- **iRobot Home App:** Aplicación móvil para controlar el robot (aunque aquí usamos "OrionTech Clean App" como nombre ficticio).
+- **Wi-Fi 2.4 GHz:** Banda de frecuencia inalámbrica comúnmente utilizada por dispositivos inteligentes, ofrece mayor alcance pero menor velocidad que 5 GHz.
+- **ABS (Acrilonitrilo Butadieno Estireno):** Plástico común, resistente y ligero, usado en la carcasa del robot.
+- **IA (Inteligencia Artificial):** Sistemas que imitan la inteligencia humana, como el reconocimiento de objetos o la adaptación de la limpieza.
+- **Vibración Sónica:** Tecnología de fregado que utiliza vibraciones de alta frecuencia para limpiar el suelo de manera más efectiva.
+--- FIN GLOSARIO TÉCNICO ---

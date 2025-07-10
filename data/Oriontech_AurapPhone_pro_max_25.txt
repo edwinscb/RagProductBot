@@ -1,0 +1,186 @@
+Nombre del Producto: OrionTech AuraPhone Pro Max 25
+Modelo: OTech-APM25
+Serie: Smartphones Flagship y Fotografía Computacional
+
+--- RESUMEN RÁPIDO ---
+El OrionTech AuraPhone Pro Max 25 es el pináculo de la innovación móvil, diseñado para usuarios que exigen lo mejor en rendimiento, fotografía y experiencia de usuario. Equipado con el chip OrionFusion Ultra, un sistema de cámara cuádruple de 200MP con IA avanzada, una pantalla LTPO OLED 120Hz sin bordes y una batería de larga duración, este dispositivo ofrece una fluidez inigualable y capacidades fotográficas de nivel profesional. Su diseño premium en titanio y su resistencia IP68 lo convierten en el compañero definitivo para cualquier escenario.
+--- FIN RESUMEN RÁPIDO ---
+
+Características Principales (Resumen):
+- Procesador: OrionFusion Ultra (5nm)
+- Pantalla: 6.9 pulgadas LTPO OLED, QHD+, 1-120Hz adaptativos
+- Cámara Principal: 200MP con OIS de segunda generación
+- Sistema de Cámaras: Cuádruple (Principal, Ultra Gran Angular, Teleobjetivo 5x óptico, Lente Macro dedicada)
+- RAM/Almacenamiento: 16GB LPDDR5X RAM, hasta 1TB NVMe UFS 4.0
+- Batería: 5500 mAh, Carga Rápida 120W (con cable), 50W (inalámbrica)
+- Resistencia: IP68 (agua y polvo)
+- Materiales: Titanio aeroespacial, Cristal CeramicShield Pro
+- Sistema Operativo: AuraOS 6 (basado en Android 16)
+
+🔍 Especificaciones Técnicas Detalladas:
+
+Procesador y Rendimiento:
+- Modelo de Chipset: OrionFusion Ultra (Fabricado en proceso de 5nm)
+- CPU: 12 núcleos (1x Ultra-core, 3x Super-cores, 8x Efficiency-cores)
+- GPU: OrionGraphics X10 (20 núcleos gráficos)
+- NPU (Neural Processing Unit): Procesador dedicado de IA de 6ª generación para hasta 100 TOPS
+- Memoria RAM: 16GB LPDDR5X
+- Almacenamiento Interno: Opciones de 256GB, 512GB, 1TB NVMe UFS 4.0
+- Rendimiento: Multitarea fluida, juegos AAA con gráficos máximos, procesamiento de IA en tiempo real.
+
+Pantalla:
+- Tamaño: 6.9 pulgadas (diagonal)
+- Tecnología: LTPO OLED VisionDisplay Pro
+- Resolución: QHD+ (3168 x 1440 píxeles), 509 ppi
+- Tasa de Refresco Adaptativa: 1Hz a 120Hz (ProMotion Technology)
+- Brillo: Hasta 1800 nits (típico), 2800 nits (pico HDR)
+- Contraste: 5,000,000:1 (típico)
+- Recubrimiento: Cristal CeramicShield Pro (mayor resistencia a caídas y arañazos)
+- Funciones Adicionales: Always-On Display, HDR10+, Dolby Vision, 100% DCI-P3, precisión de color Delta E < 1.
+
+Sistema de Cámaras Traseras (OrionVision Pro System):
+- Cámara Principal:
+    - Sensor: 200MP OrionBright (tamaño 1/1.12", píxeles de 0.64µm)
+    - Apertura: f/1.6
+    - Estabilización: OIS de segunda generación (Optical Image Stabilization) con cambio de sensor.
+    - Tecnología: Pixel-binning 16-en-1 (salida de 12.5MP con píxeles de 2.56µm)
+- Cámara Ultra Gran Angular:
+    - Sensor: 50MP
+    - Apertura: f/2.0
+    - Campo de Visión (FoV): 128°
+    - Corrección de Distorsión: Lente Free-Form para mínima distorsión en los bordes.
+- Cámara Teleobjetivo Periscópico:
+    - Sensor: 50MP
+    - Apertura: f/3.0
+    - Zoom Óptico: 5x
+    - Zoom Híbrido: Hasta 15x
+    - Zoom Digital: Hasta 100x (Space Zoom)
+    - Estabilización: OIS
+- Lente Macro Dedicada:
+    - Sensor: 12MP
+    - Apertura: f/2.2
+    - Enfoque: Desde 2 cm
+- Funciones Fotográficas Avanzadas:
+    - OrionPro Engine: Procesamiento de imagen computacional impulsado por IA.
+    - Modo Noche 3.0: Exposición extendida con reducción de ruido por IA.
+    - Retrato Nocturno, Modo Pro (RAW de 14 bits), Captura 8K@30fps, 4K@120fps, Modo Cinematográfico (Bokeh de video).
+    - Seguimiento de Objeto por IA en video.
+
+Cámara Frontal:
+- Sensor: 60MP
+- Apertura: f/2.0
+- Enfoque: Autoenfoque
+- Grabación de Video: 4K@60fps
+- Funciones: Modo Retrato con IA, filtros faciales, desbloqueo facial 3D.
+
+Batería y Carga:
+- Capacidad: 5500 mAh
+- Carga Rápida (con cable): 120W OrionCharge Pro (50% en 10 minutos, 100% en ~25 minutos).
+- Carga Inalámbrica: 50W OrionCharge Air.
+- Carga Inversa Inalámbrica: 10W (para auriculares, smartwatches).
+- Duración: Hasta 2 días de uso moderado.
+
+Resistencia y Diseño:
+- Certificación: IP68 (Resistencia al agua hasta 1.5 metros por 30 minutos y protección total contra el polvo).
+- Materiales: Marco de titanio aeroespacial, Cristal CeramicShield Pro en frontal y trasera.
+- Colores: Negro Cósmico, Blanco Lunar, Azul Galaxia, Verde Esmeralda.
+- Dimensiones: 165.1 x 76.5 x 8.9 mm
+- Peso: 228 gramos
+
+Sistema Operativo y Experiencia de Usuario:
+- SO: AuraOS 6 (basado en Android 16), con optimizaciones y funcionalidades exclusivas de OrionTech.
+- Interfaz: Interfaz de usuario limpia, intuitiva y personalizable.
+- Actualizaciones: 5 años de actualizaciones de SO garantizadas, 7 años de parches de seguridad.
+- Funciones Exclusivas:
+    - AuraConnect: Integración perfecta con el ecosistema OrionTech (Aurabook, AuraWatch, AuraBuds, etc.).
+    - Spatial Audio Pro: Experiencia de audio envolvente dinámica con seguimiento de cabeza.
+    - MagicGestures: Gestos sin contacto para controlar el dispositivo.
+    - AuraSecure Chip: Chip de seguridad dedicado para protección de datos biométricos y transacciones.
+
+Conectividad:
+- Redes: 5G (sub-6 GHz y mmWave), 4G LTE Gigabit.
+- Wi-Fi: Wi-Fi 7 (802.11be) Dual-Band (2.4/5/6GHz).
+- Bluetooth: Versión 5.4 LE (Low Energy), aptX Adaptive, LDAC.
+- NFC: Sí (para pagos móviles y emparejamiento rápido).
+- Posicionamiento: GPS de doble frecuencia (L1+L5), GLONASS, Galileo, BeiDou.
+- Puertos: 1x USB-C 4 (Thunderbolt 4 compatible, DisplayPort Alt Mode)
+
+Sensores:
+- Lector de huellas dactilares: Ultrasónico bajo la pantalla de segunda generación.
+- Reconocimiento facial: 3D con sensor IR.
+- Acelerómetro, Giroscopio, Brújula, Barómetro, Sensor de luz ambiental, Sensor de proximidad.
+
+📦 Contenido de la Caja:
+- 1x Smartphone OrionTech AuraPhone Pro Max 25
+- 1x Cable de carga USB-C a USB-C de 1.5 metros (compatible con 120W)
+- 1x Herramienta de expulsión de SIM
+- 1x Guía de inicio rápido
+- 1x Manual de usuario (versión digital online)
+- 1x Tarjeta de garantía
+
+💼 Garantía y Soporte:
+- Garantía estándar: 2 años limitada para hardware.
+- Soporte técnico: 24/7 vía chat, correo electrónico y línea telefónica dedicada.
+- Centro de Servicio: Red global de centros de servicio técnico autorizados OrionTech.
+- Programa de Protección: "OrionCare Pro" disponible (protección contra caídas, derrames, extensión de garantía).
+
+--- PRECIO Y DISPONIBILIDAD ---
+Precio Base: USD $1,299.00 (para la versión de 256GB)
+Precios de Otras Configuraciones:
+- 512GB: USD $1,399.00
+- 1TB: USD $1,599.00
+Disponibilidad:
+- Lanzamiento Oficial: 10 de octubre de 2025
+- Pre-órdenes: Disponibles a partir del 15 de septiembre de 2025
+- Canales de Venta: Tienda online de OrionTech, principales operadores de telefonía móvil (ej. Verizon, AT&T, Movistar, Vodafone), grandes minoristas de electrónica.
+Ofertas de Lanzamiento:
+- Las primeras 500 pre-órdenes incluyen un cargador OrionCharge Pro de 120W y unos auriculares OrionTech AuraBuds 3 de regalo.
+- Descuento del 20% en accesorios AuraPhone al momento de la compra.
+--- FIN PRECIO Y DISPONIBILIDAD ---
+
+--- COMPARATIVA Y ESCENARIOS DE USO ---
+📈 Comparativa con Modelos Anteriores y Competencia:
+- **vs. OrionTech AuraPhone Pro 24 (modelo anterior):** El AuraPhone Pro Max 25 ofrece un 30% más de rendimiento CPU/GPU, un sistema de cámara de 200MP (vs. 108MP), carga de 120W (vs. 60W), y una batería de mayor capacidad.
+- **vs. Competencia (ej. iPhone 17 Pro Max, Samsung Galaxy S25 Ultra):** El AuraPhone Pro Max 25 se destaca por su potencia de carga ultra-rápida, el sensor de cámara principal de mayor resolución, el rendimiento líder de su NPU para IA, y la durabilidad de su marco de titanio. Ofrece una experiencia de Android más pura con las mejoras exclusivas de AuraOS.
+
+🧪 Casos de uso con escenarios:
+- **Fotografía Profesional Móvil:** “Un fotógrafo puede capturar imágenes de estudio con el sensor de 200MP y el modo RAW de 14 bits, editándolas directamente en el dispositivo con aplicaciones optimizadas por la NPU, y luego compartirlas con una calidad sin precedentes.”
+- **Gaming de Alto Rendimiento:** “Los jugadores de títulos AAA como Genshin Impact o Call of Duty Mobile experimentarán gráficos máximos y tasas de frames estables gracias al potente OrionFusion Ultra, aprovechando la pantalla de 120Hz para una experiencia fluida e inmersiva.”
+- **Productividad en Movimiento:** “Un profesional puede realizar videollamadas con IA para cancelación de ruido, editar documentos y gestionar proyectos con fluidez, y mantener una conexión constante y segura gracias a Wi-Fi 7 y las funciones de seguridad de AuraOS.”
+- **Creación de Contenido para Redes Sociales:** “Los creadores de contenido pueden grabar videos en 4K@120fps, aplicar efectos en tiempo real con la NPU, y subir contenido de alta calidad rápidamente gracias a la conectividad 5G y Wi-Fi 7.”
+--- FIN COMPARATIVA Y ESCENARIOS DE USO ---
+
+--- GLOSARIO TÉCNICO ---
+- **OrionFusion Ultra:** (Nombre ficticio) El chip insignia de OrionTech, diseñado para rendimiento, eficiencia y capacidades de IA.
+- **5nm:** Tamaño del proceso de fabricación del chip; cuanto menor, más transistores caben y más eficiente es.
+- **CPU (Central Processing Unit):** El procesador principal del teléfono.
+- **GPU (Graphics Processing Unit):** El procesador encargado de los gráficos.
+- **NPU (Neural Processing Unit):** Hardware dedicado a acelerar tareas de inteligencia artificial y aprendizaje automático.
+- **TOPS (Tera Operations Per Second):** Medida de la capacidad de procesamiento de IA de una NPU.
+- **LPDDR5X:** Tipo de memoria RAM de bajo consumo y alta velocidad para dispositivos móviles.
+- **NVMe UFS 4.0:** Estándar de almacenamiento de alta velocidad para smartphones. UFS 4.0 es la última generación.
+- **LTPO OLED:** Pantalla OLED de bajo consumo con tasa de refresco adaptativa (puede variar de 1Hz a 120Hz).
+- **QHD+:** Resolución de pantalla superior a Full HD, ofreciendo mayor nitidez.
+- **ppi (Píxeles Por Pulgada):** Medida de la densidad de píxeles en una pantalla. Mayor ppi = imagen más nítida.
+- **HDR10+ / Dolby Vision:** Estándares de Alto Rango Dinámico que mejoran el contraste y color.
+- **DCI-P3:** Espacio de color utilizado en la industria cinematográfica, más amplio que el sRGB estándar.
+- **CeramicShield Pro:** (Nombre ficticio) Tipo de vidrio cerámico ultra-resistente, similar al Gorilla Glass de Corning o Ceramic Shield de Apple.
+- **OIS (Optical Image Stabilization):** Tecnología que reduce el desenfoque en fotos y videos compensando el movimiento de la cámara.
+- **Pixel-binning:** Técnica que combina datos de múltiples píxeles pequeños en uno más grande para mejorar la calidad de imagen en baja luz.
+- **Teleobjetivo Periscópico:** Lente con diseño óptico plegado que permite un zoom óptico mayor sin aumentar el grosor del teléfono.
+- **Pixel-binning:** Técnica que combina datos de múltiples píxeles pequeños en uno más grande para mejorar la calidad de imagen en baja luz.
+- **RAW:** Formato de imagen sin procesar, que contiene todos los datos capturados por el sensor de la cámara, ideal para edición profesional.
+- **IP68:** Clasificación de resistencia al agua y al polvo. El "6" significa protección total contra el polvo; el "8" significa inmersión en agua hasta 1.5 metros por 30 minutos.
+- **Titanio Aeroespacial:** Aleación de titanio usada en la construcción del marco, conocida por su alta resistencia y bajo peso.
+- **AuraOS:** (Nombre ficticio) Sistema operativo personalizado de OrionTech basado en Android.
+- **Spatial Audio Pro:** (Nombre ficticio) Tecnología de sonido envolvente con seguimiento de la cabeza, para una experiencia de audio más inmersiva.
+- **Thunderbolt 4 (vía USB-C):** Puerto universal de alta velocidad para datos, video y carga de energía, con gran ancho de banda.
+- **Wi-Fi 7 (802.11be):** Última generación de estándar Wi-Fi, ofrece mayores velocidades y menor latencia.
+- **Bluetooth 5.4 LE:** Versión de Bluetooth optimizada para bajo consumo de energía.
+- **NFC (Near Field Communication):** Tecnología para comunicación inalámbrica de corto alcance, usada para pagos y emparejamiento.
+- **GPS de doble frecuencia (L1+L5):** Permite una geolocalización más precisa.
+- **Ultrasónico (lector de huellas):** Tecnología de lector de huellas dactilares que utiliza ondas de sonido para mapear las crestas y valles de la huella, incluso con dedos mojados o sucios.
+- **OTA (Over-The-Air):** Método de actualización de software de forma inalámbrica.
+- **TOPS (Tera Operations Per Second):** Medida de la capacidad de procesamiento de IA de una NPU (mencionado previamente).
+--- FIN GLOSARIO TÉCNICO ---
+
