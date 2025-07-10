@@ -2,40 +2,39 @@ import sys
 import os
 from dotenv import load_dotenv
 
-# Carga variables de entorno desde .env
 load_dotenv()
-
-# Mueve estas líneas al principio del archivo, ANTES de las otras importaciones
 sys.path.append(os.path.abspath(os.path.join(os.path.dirname(__file__), '..')))
-from typing import List
 
+from typing import List
 from fastapi import FastAPI, HTTPException
 from pydantic import ValidationError
 from src.models import QueryRequest
 from src.rag.vector_store import VectorStore, ProductDocument
-from src.agents.responder_agent import ResponderAgent # Importa el nuevo agente
+from src.agents.responder_agent import ResponderAgent
 
 app = FastAPI(
     title="Product-Query Bot API",
     description="Microservicio para responder preguntas sobre productos mediante un pipeline RAG."
 )
 
-# --- Inicialización del Vector Store ---
 DATA_PATH = os.getenv("DATA_PATH", "data/")
 if not os.path.exists(DATA_PATH):
     print(f"Advertencia: La carpeta de datos '{DATA_PATH}' no existe. Asegúrate de que los archivos .txt estén ahí.")
 
 vector_store = VectorStore(data_path=DATA_PATH)
 
-# --- Inicialización del Responder Agent ---
-# Obtén la clave API de OpenAI desde las variables de entorno
 OPENAI_API_KEY = os.getenv("OPENAI_API_KEY")
 if not OPENAI_API_KEY:
     print("Advertencia: La variable de entorno OPENAI_API_KEY no está configurada. El Responder Agent no funcionará.")
-    responder_agent = None # O lanza un error si la clave es obligatoria
+    responder_agent = None 
 else:
     responder_agent = ResponderAgent(openai_api_key=OPENAI_API_KEY)
 
+try:
+    TOP_K_RETRIEVAL = int(os.getenv("TOP_K_RETRIEVAL", 3))
+except ValueError:
+    print("Advertencia: TOP_K_RETRIEVAL en .env no es un número válido. Usando 3 por defecto.")
+    TOP_K_RETRIEVAL = 3
 
 @app.on_event("startup")
 async def startup_event():
@@ -46,8 +45,7 @@ async def startup_event():
         print("Indexación de documentos completada con éxito.")
     except Exception as e:
         print(f"Error durante la indexación: {e}")
-        # Considera si quieres que la aplicación falle si la indexación falla
-        # raise Exception(f"No se pudo inicializar el vector store: {e}")
+        raise Exception(f"No se pudo inicializar el vector store: {e}")
 
 @app.post("/query")
 async def handle_query(request: QueryRequest):
@@ -63,14 +61,12 @@ async def handle_query(request: QueryRequest):
 
         if not vector_store.index:
             raise HTTPException(status_code=503, detail="Vector store no inicializado. Intente de nuevo más tarde.")
-
-        # --- Agente Recuperador (ya implementado en VectorStore.retrieve) ---
-        retrieved_documents: List[ProductDocument] = vector_store.retrieve(user_query, top_k=3)
-
+               
+        retrieved_documents: List[ProductDocument] = vector_store.retrieve(user_query, top_k=TOP_K_RETRIEVAL)
         retrieved_product_ids = [doc.product_id for doc in retrieved_documents]
+        
         print(f"Documentos recuperados para '{user_query}': {retrieved_product_ids}")
 
-        # --- Agente Respondedor ---
         if responder_agent:
             bot_response_text = responder_agent.generate_response(user_query, retrieved_documents)
         else:

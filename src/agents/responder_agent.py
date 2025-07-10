@@ -1,14 +1,12 @@
 import os
 from typing import List
-from openai import OpenAI # Para interactuar con la API de OpenAI
-from src.rag.vector_store import ProductDocument # Necesitas esto para el tipo de documento
+from openai import OpenAI
+from src.rag.vector_store import ProductDocument 
 
 class ResponderAgent:
     def __init__(self, openai_api_key: str):
-        # Inicializa el cliente de OpenAI con tu clave API
-        self.client = OpenAI(api_key=openai_api_key)
-        # Puedes configurar el modelo aquí o pasarlo como parámetro al método generate_response
-        self.model = "gpt-3.5-turbo" # O "gpt-4", "gpt-4o", etc.
+        self.client = OpenAI(api_key=openai_api_key)       
+        self.model = "gpt-3.5-turbo" 
 
     def _build_prompt(self, query: str, context: List[ProductDocument]) -> str:
         """
@@ -17,20 +15,22 @@ class ResponderAgent:
         """
         context_str = "\n---\n".join([doc.content for doc in context])
 
-        prompt = f"""Eres un asistente de atención al cliente para una empresa de tecnología llamada OrionTech.
-Tu objetivo es responder a las preguntas de los usuarios sobre los productos de OrionTech basándote EXCLUSIVAMENTE en la información proporcionada en los documentos de contexto.
-Si la pregunta no puede ser respondida con la información dada, o si la información es contradictoria, responde que no tienes suficiente información para responder a esa pregunta.
-NO inventes información. SÉ conciso y directo.
+        prompt = f"""Eres un asistente de atención al cliente para una empresa de tecnología llamada
+                     OrionTech.Tu objetivo es responder a las preguntas de los usuarios sobre los productos
+                     de OrionTech basándote EXCLUSIVAMENTE en la información proporcionada en los documentos
+                     de contexto.Si la pregunta no puede ser respondida con la información dada, o si la
+                     información es contradictoria, responde que no tienes suficiente información para
+                     responder a esa pregunta.NO inventes información. SÉ conciso y directo.
 
-Documentos de Contexto:
----
-{context_str}
----
+                    Documentos de Contexto:
+                    ---
+                    {context_str}
+                    ---
 
-Pregunta del usuario: "{query}"
+                    Pregunta del usuario: "{query}"
 
-Tu respuesta (basada solo en los Documentos de Contexto):
-"""
+                    Tu respuesta (basada solo en los Documentos de Contexto):
+                    """
         return prompt
 
     def generate_response(self, query: str, retrieved_documents: List[ProductDocument]) -> str:
@@ -40,7 +40,6 @@ Tu respuesta (basada solo en los Documentos de Contexto):
         if not retrieved_documents:
             return "Lo siento, no pude encontrar información relevante en nuestra base de datos de productos para responder a tu pregunta."
 
-        # Construye el prompt con el contexto y la consulta
         prompt = self._build_prompt(query, retrieved_documents)
 
         print("--- Enviando prompt al LLM ---")
@@ -48,14 +47,14 @@ Tu respuesta (basada solo en los Documentos de Contexto):
         print("-----------------------------")
 
         try:
-            # Llama a la API de OpenAI
+            
             chat_completion = self.client.chat.completions.create(
                 model=self.model,
                 messages=[
                     {"role": "system", "content": "You are a helpful assistant."},
                     {"role": "user", "content": prompt}
                 ],
-                temperature=0.0 # Controla la creatividad. 0.0 para respuestas más directas.
+                temperature=0.0
             )
             response_content = chat_completion.choices[0].message.content
             return response_content
